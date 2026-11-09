@@ -1,5 +1,5 @@
 # Exam codes already turned into Instagram carousels (code | scheduled date, Asia/Karachi 10:00)
-NCA-GENL | 2026-11-10
+NCA-GENL | 2026-11-09 (published)
 NCP-AAI | 2026-11-11
 NCA-AIIO | 2026-11-12
 NCA-GENM | 2026-11-13
