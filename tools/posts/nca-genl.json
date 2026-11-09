@@ -1,0 +1,53 @@
+{
+ "vendor": "NVIDIA",
+ "name": "Generative AI LLMs",
+ "code": "NCA-GENL",
+ "hook": "Validate your LLM fundamentals.",
+ "facts": [
+  [
+   "Questions",
+   "50–60"
+  ],
+  [
+   "Time",
+   "60 minutes"
+  ],
+  [
+   "Price",
+   "$125 USD"
+  ],
+  [
+   "Level",
+   "Associate"
+  ]
+ ],
+ "domains": [
+  [
+   "Core ML & AI Knowledge",
+   "30%"
+  ],
+  [
+   "Software Development",
+   "24%"
+  ],
+  [
+   "Experimentation",
+   "22%"
+  ],
+  [
+   "Data Analysis",
+   "14%"
+  ],
+  [
+   "Trustworthy AI",
+   "10%"
+  ]
+ ],
+ "tips": [
+  "Master transformers, embeddings and prompting",
+  "Learn fine-tuning, RAG and evaluation",
+  "Get hands-on with NeMo and Triton",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Planning to take the NVIDIA NCA-GENL – Generative AI LLMs exam? 🚀\n\n📌 50–60 questions · 60 minutes · $125\n📚 Biggest topics: Core ML & AI Knowledge, Software Development, Experimentation\n\nSwipe through for the full exam breakdown and a study plan 👉\n\nPractice with real exam-style NCA-GENL questions and detailed explanations at www.certsclub.com\n\n💾 Save this post for your prep and share it with someone studying NVIDIA!\n\n#GenerativeAI #LLM #GenAI #PromptEngineering #NCAGENL #NVIDIA #NVIDIACertified #NVIDIACertification #ITCertification #CertsClub #PracticeExam #ExamPrep #AI #GPU #TechCareers"
+}

@@ -1,0 +1,57 @@
+{
+ "vendor": "NVIDIA",
+ "name": "Accelerated Data Science",
+ "code": "NCP-ADS",
+ "hook": "Production-grade GPU data science.",
+ "facts": [
+  [
+   "Questions",
+   "60–70"
+  ],
+  [
+   "Time",
+   "120 minutes"
+  ],
+  [
+   "Price",
+   "$200 USD"
+  ],
+  [
+   "Level",
+   "Professional"
+  ]
+ ],
+ "domains": [
+  [
+   "Data Manipulation & Software Literacy",
+   "19%"
+  ],
+  [
+   "MLOps",
+   "19%"
+  ],
+  [
+   "Data Preparation",
+   "17%"
+  ],
+  [
+   "GPU & Cloud Computing",
+   "16%"
+  ],
+  [
+   "Machine Learning",
+   "15%"
+  ],
+  [
+   "Data Analysis",
+   "14%"
+  ]
+ ],
+ "tips": [
+  "Profile and optimize RAPIDS pipelines",
+  "Scale with Dask across multiple GPUs",
+  "Deploy and monitor models with MLOps tools",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Planning to take the NVIDIA NCP-ADS – Accelerated Data Science exam? 🚀\n\n📌 60–70 questions · 120 minutes · $200\n📚 Biggest topics: Data Manipulation & Software Literacy, MLOps, Data Preparation\n\nSwipe through for the full exam breakdown and a study plan 👉\n\nPractice with real exam-style NCP-ADS questions and detailed explanations at www.certsclub.com\n\n💾 Save this post for your prep and share it with someone studying NVIDIA!\n\n#DataScience #RAPIDS #MLOps #MachineLearning #NCPADS #NVIDIA #NVIDIACertified #NVIDIACertification #ITCertification #CertsClub #PracticeExam #ExamPrep #AI #GPU #TechCareers"
+}

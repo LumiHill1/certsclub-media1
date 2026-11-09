@@ -1,0 +1,13 @@
+# Exam codes already turned into Instagram carousels (code | scheduled date, Asia/Karachi 10:00)
+NCA-GENL | 2026-11-10
+NCP-AAI | 2026-11-11
+NCA-AIIO | 2026-11-12
+NCA-GENM | 2026-11-13
+NCA-ADS | 2026-11-14
+NCP-AII | 2026-11-15
+NCP-AIN | 2026-11-16
+NCP-AIO | 2026-11-17
+NCP-ADS | 2026-11-18
+NCP-ARI | 2026-11-19
+NCP-OUSD | 2026-11-20
+NCP-IB | skipped (retired by NVIDIA, replaced by NCP-AIN)

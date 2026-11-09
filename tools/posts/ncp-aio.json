@@ -1,0 +1,49 @@
+{
+ "vendor": "NVIDIA",
+ "name": "AI Operations",
+ "code": "NCP-AIO",
+ "hook": "Run and troubleshoot AI data centers.",
+ "facts": [
+  [
+   "Questions",
+   "30 + 3 hands-on labs"
+  ],
+  [
+   "Time",
+   "120 minutes"
+  ],
+  [
+   "Price",
+   "$500 USD"
+  ],
+  [
+   "Level",
+   "Professional"
+  ]
+ ],
+ "domains": [
+  [
+   "Install & Deploy",
+   "31%"
+  ],
+  [
+   "Administration",
+   "23%"
+  ],
+  [
+   "Workload Management",
+   "23%"
+  ],
+  [
+   "Troubleshooting & Optimization",
+   "23%"
+  ]
+ ],
+ "tips": [
+  "Install Kubernetes and Slurm with BCM",
+  "Configure MIG and administer Run:ai",
+  "Troubleshoot with DCGM and nvidia-smi",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Planning to take the NVIDIA NCP-AIO – AI Operations exam? 🚀\n\n📌 30 + 3 hands-on labs questions · 120 minutes · $500\n📚 Biggest topics: Install & Deploy, Administration, Workload Management\n\nSwipe through for the full exam breakdown and a study plan 👉\n\nPractice with real exam-style NCP-AIO questions and detailed explanations at www.certsclub.com\n\n💾 Save this post for your prep and share it with someone studying NVIDIA!\n\n#AIOps #Kubernetes #DataCenter #MLOps #NCPAIO #NVIDIA #NVIDIACertified #NVIDIACertification #ITCertification #CertsClub #PracticeExam #ExamPrep #AI #GPU #TechCareers"
+}

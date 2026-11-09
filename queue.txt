@@ -1,0 +1,2 @@
+# CertsClub Instagram queue — add one exam code per line (optionally "CODE | Exam name").
+# The weekly CertsClub task turns each line into a carousel and schedules it, then moves it to posted.txt.

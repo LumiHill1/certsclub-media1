@@ -1,0 +1,65 @@
+{
+ "vendor": "NVIDIA",
+ "name": "OpenUSD Development",
+ "code": "NCP-OUSD",
+ "hook": "Prove your Universal Scene Description skills.",
+ "facts": [
+  [
+   "Questions",
+   "60–70"
+  ],
+  [
+   "Time",
+   "120 minutes"
+  ],
+  [
+   "Price",
+   "$200 USD"
+  ],
+  [
+   "Level",
+   "Professional"
+  ]
+ ],
+ "domains": [
+  [
+   "Composition",
+   "23%"
+  ],
+  [
+   "Data Exchange",
+   "15%"
+  ],
+  [
+   "Pipeline Development",
+   "14%"
+  ],
+  [
+   "Data Modeling",
+   "13%"
+  ],
+  [
+   "Debugging & Troubleshooting",
+   "11%"
+  ],
+  [
+   "Content Aggregation",
+   "10%"
+  ],
+  [
+   "Visualization",
+   "8%"
+  ],
+  [
+   "Customizing USD",
+   "6%"
+  ]
+ ],
+ "tips": [
+  "Master LIVRPS and composition arcs",
+  "Build references, payloads and variant sets",
+  "Work through the Learn OpenUSD tutorials",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Planning to take the NVIDIA NCP-OUSD – OpenUSD Development exam? 🚀\n\n📌 60–70 questions · 120 minutes · $200\n📚 Biggest topics: Composition, Data Exchange, Pipeline Development\n\nSwipe through for the full exam breakdown and a study plan 👉\n\nPractice with real exam-style NCP-OUSD questions and detailed explanations at www.certsclub.com\n\n💾 Save this post for your prep and share it with someone studying NVIDIA!\n\n#OpenUSD #Omniverse #3D #DigitalTwin #NCPOUSD #NVIDIA #NVIDIACertified #NVIDIACertification #ITCertification #CertsClub #PracticeExam #ExamPrep #AI #GPU #TechCareers"
+}
