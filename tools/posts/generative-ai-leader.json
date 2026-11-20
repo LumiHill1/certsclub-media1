@@ -1,0 +1,49 @@
+{
+ "vendor": "Google Cloud",
+ "name": "Generative AI Leader",
+ "code": "Generative-AI-Leader",
+ "hook": "Lead gen AI strategy with Google Cloud.",
+ "facts": [
+  [
+   "Questions",
+   "50–60 (multiple choice)"
+  ],
+  [
+   "Time",
+   "90 minutes"
+  ],
+  [
+   "Price",
+   "$99 USD"
+  ],
+  [
+   "Level",
+   "Any role · no prerequisites"
+  ]
+ ],
+ "domains": [
+  [
+   "Fundamentals of Gen AI",
+   "~30%"
+  ],
+  [
+   "Google Cloud's Gen AI Offerings",
+   "~35%"
+  ],
+  [
+   "Improving Gen AI Model Output",
+   "~20%"
+  ],
+  [
+   "Gen AI Business Strategies",
+   "~15%"
+  ]
+ ],
+ "tips": [
+  "Know Gemini, Vertex AI and AI agents",
+  "Understand prompting, RAG and grounding",
+  "Review responsible AI and adoption",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the Google Cloud Generative AI Leader certification exam? 🚀\n🎯 Exam Format: 50–60 questions | 90 minutes | $99\n📚 Key Topics to Focus On:\n\n* Google Cloud's gen AI offerings\n* Fundamentals of gen AI\n* Techniques to improve gen AI model output\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore Google Cloud Generative AI Leader practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward Google Cloud certifications!\n#GoogleCloud #GenerativeAILeader #GenerativeAI #GenAI #VertexAI #GoogleCloudCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

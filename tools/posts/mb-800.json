@@ -1,0 +1,49 @@
+{
+ "vendor": "Microsoft",
+ "name": "Business Central Consultant",
+ "code": "MB-800",
+ "hook": "Configure and run Dynamics 365 Business Central.",
+ "facts": [
+  [
+   "Questions",
+   "40–60 (varies by exam)"
+  ],
+  [
+   "Time",
+   "100 minutes"
+  ],
+  [
+   "Price",
+   "$165 USD (US price)"
+  ],
+  [
+   "Level",
+   "Associate · pass 700"
+  ]
+ ],
+ "domains": [
+  [
+   "Set Up Business Central",
+   "20–25%"
+  ],
+  [
+   "Configure Financials",
+   "30–35%"
+  ],
+  [
+   "Configure Sales & Purchasing",
+   "10–15%"
+  ],
+  [
+   "Business Central Operations",
+   "30–35%"
+  ]
+ ],
+ "tips": [
+  "Master chart of accounts and posting groups",
+  "Practise journals, payments and inventory",
+  "Review sales and purchasing setup",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the Microsoft MB-800 – Dynamics 365 Business Central Functional Consultant certification exam? 🚀\n🎯 Exam Format: 40–60 questions | 100 minutes | $165\n📚 Key Topics to Focus On:\n\n* Configure financials\n* Perform Business Central operations\n* Set up Business Central\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore Microsoft MB-800 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward Microsoft certifications!\n#Microsoft #MB800 #Dynamics365 #BusinessCentral #ERP #MicrosoftCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

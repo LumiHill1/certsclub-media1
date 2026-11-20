@@ -1,0 +1,45 @@
+{
+ "vendor": "Microsoft",
+ "name": "Azure Fundamentals",
+ "code": "AZ-900",
+ "hook": "Your first step into the Microsoft Azure cloud.",
+ "facts": [
+  [
+   "Questions",
+   "40–60 (varies by exam)"
+  ],
+  [
+   "Time",
+   "45 minutes"
+  ],
+  [
+   "Price",
+   "$99 USD (US price)"
+  ],
+  [
+   "Level",
+   "Fundamentals · pass 700"
+  ]
+ ],
+ "domains": [
+  [
+   "Cloud Concepts",
+   "25–30%"
+  ],
+  [
+   "Azure Architecture & Services",
+   "35–40%"
+  ],
+  [
+   "Management & Governance",
+   "30–35%"
+  ]
+ ],
+ "tips": [
+  "Know IaaS, PaaS, SaaS and cloud models",
+  "Learn regions, zones, compute and storage",
+  "Review cost tools, Policy and governance",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the Microsoft AZ-900 – Azure Fundamentals certification exam? 🚀\n🎯 Exam Format: 40–60 questions | 45 minutes | $99\n📚 Key Topics to Focus On:\n\n* Describe Azure architecture and services\n* Describe Azure management and governance\n* Describe cloud concepts\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore Microsoft AZ-900 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward Microsoft certifications!\n#Microsoft #AZ900 #Azure #CloudComputing #AzureFundamentals #MicrosoftCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

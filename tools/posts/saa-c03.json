@@ -1,0 +1,49 @@
+{
+ "vendor": "AWS",
+ "name": "Solutions Architect Associate",
+ "code": "SAA-C03",
+ "hook": "Design secure, resilient, cost-optimized AWS.",
+ "facts": [
+  [
+   "Questions",
+   "65 (50 scored + 15 unscored)"
+  ],
+  [
+   "Time",
+   "130 minutes"
+  ],
+  [
+   "Price",
+   "$150 USD"
+  ],
+  [
+   "Level",
+   "Associate · pass 720 (100–1000)"
+  ]
+ ],
+ "domains": [
+  [
+   "Design Secure Architectures",
+   "30%"
+  ],
+  [
+   "Design Resilient Architectures",
+   "26%"
+  ],
+  [
+   "High-Performing Architectures",
+   "24%"
+  ],
+  [
+   "Cost-Optimized Architectures",
+   "20%"
+  ]
+ ],
+ "tips": [
+  "Know IAM, KMS, VPC and security controls",
+  "Design for HA with multi-AZ and decoupling",
+  "Pick the right storage, DB and compute",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the AWS SAA-C03 – Solutions Architect Associate certification exam? 🚀\n🎯 Exam Format: 65 questions | 130 minutes | $150\n📚 Key Topics to Focus On:\n\n* Design Secure Architectures\n* Design Resilient Architectures\n* Design High-Performing Architectures\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore AWS SAA-C03 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward AWS certifications!\n#AWS #SAAC03 #AWSCloud #SolutionsArchitect #CloudComputing #AWSCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

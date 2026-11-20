@@ -1,0 +1,49 @@
+{
+ "vendor": "Microsoft",
+ "name": "Identity & Access Admin",
+ "code": "SC-300",
+ "hook": "Secure identities and access with Microsoft Entra.",
+ "facts": [
+  [
+   "Questions",
+   "40–60 (varies by exam)"
+  ],
+  [
+   "Time",
+   "100 minutes"
+  ],
+  [
+   "Price",
+   "$165 USD (US price)"
+  ],
+  [
+   "Level",
+   "Intermediate · pass 700"
+  ]
+ ],
+ "domains": [
+  [
+   "User Identities",
+   "20–25%"
+  ],
+  [
+   "Authentication & Access Mgmt",
+   "25–30%"
+  ],
+  [
+   "Workload Identities",
+   "20–25%"
+  ],
+  [
+   "Identity Governance",
+   "20–25%"
+  ]
+ ],
+ "tips": [
+  "Master Conditional Access and MFA",
+  "Know PIM, access reviews and entitlements",
+  "Review app registrations and managed IDs",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the Microsoft SC-300 – Identity and Access Administrator certification exam? 🚀\n🎯 Exam Format: 40–60 questions | 100 minutes | $165\n📚 Key Topics to Focus On:\n\n* Implement authentication and access management\n* Implement and manage user identities\n* Plan and implement workload identities\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore Microsoft SC-300 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward Microsoft certifications!\n#Microsoft #SC300 #MicrosoftEntra #IdentityManagement #CyberSecurity #MicrosoftCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

@@ -1,0 +1,53 @@
+{
+ "vendor": "Microsoft",
+ "name": "Endpoint Administrator",
+ "code": "MD-102",
+ "hook": "Deploy, manage and secure endpoints with Intune.",
+ "facts": [
+  [
+   "Questions",
+   "40–60 (varies by exam)"
+  ],
+  [
+   "Time",
+   "100 minutes"
+  ],
+  [
+   "Price",
+   "$165 USD (US price)"
+  ],
+  [
+   "Level",
+   "Associate · pass 700"
+  ]
+ ],
+ "domains": [
+  [
+   "Prepare Device Infrastructure",
+   "20–25%"
+  ],
+  [
+   "Manage & Maintain Devices",
+   "25–30%"
+  ],
+  [
+   "Protect Devices",
+   "15–20%"
+  ],
+  [
+   "Manage & Secure Applications",
+   "15–20%"
+  ],
+  [
+   "Optimize Endpoint Operations",
+   "10–15%"
+  ]
+ ],
+ "tips": [
+  "Master Intune enrollment and Autopilot",
+  "Know compliance, config and update rings",
+  "Review app protection and Defender",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the Microsoft MD-102 – Endpoint Administrator certification exam? 🚀\n🎯 Exam Format: 40–60 questions | 100 minutes | $165\n📚 Key Topics to Focus On:\n\n* Manage and maintain devices\n* Prepare infrastructure for devices\n* Protect devices\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore Microsoft MD-102 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward Microsoft certifications!\n#Microsoft #MD102 #Intune #EndpointManagement #DeviceSecurity #MicrosoftCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

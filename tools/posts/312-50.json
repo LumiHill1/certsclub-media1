@@ -1,0 +1,69 @@
+{
+ "vendor": "EC-Council",
+ "name": "Certified Ethical Hacker",
+ "code": "312-50",
+ "hook": "Think like a hacker, defend like a pro.",
+ "facts": [
+  [
+   "Questions",
+   "125 (multiple choice)"
+  ],
+  [
+   "Time",
+   "4 hours"
+  ],
+  [
+   "Price",
+   "$950 USD (exam voucher)"
+  ],
+  [
+   "Level",
+   "Professional · cut score 60–85%"
+  ]
+ ],
+ "domains": [
+  [
+   "InfoSec & Ethical Hacking Intro",
+   "6%"
+  ],
+  [
+   "Reconnaissance Techniques",
+   "17%"
+  ],
+  [
+   "System Hacking & Attacks",
+   "15%"
+  ],
+  [
+   "Network & Perimeter Hacking",
+   "24%"
+  ],
+  [
+   "Web Application Hacking",
+   "14%"
+  ],
+  [
+   "Wireless Network Hacking",
+   "5%"
+  ],
+  [
+   "Mobile, IoT & OT Hacking",
+   "10%"
+  ],
+  [
+   "Cloud Computing",
+   "5%"
+  ],
+  [
+   "Cryptography",
+   "5%"
+  ]
+ ],
+ "tips": [
+  "Master recon, scanning and enumeration",
+  "Know sniffing, DoS and IDS evasion",
+  "Review web app attacks and SQL injection",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the EC-Council 312-50 – Certified Ethical Hacker certification exam? 🚀\n🎯 Exam Format: 125 questions | 4 hours | $950\n📚 Key Topics to Focus On:\n\n* Network and Perimeter Hacking\n* Reconnaissance Techniques\n* System Hacking Phases and Attack Techniques\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore EC-Council 312-50 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward EC-Council certifications!\n#ECCouncil #31250 #EthicalHacking #CEH #CyberSecurity #ECCouncilCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

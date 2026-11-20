@@ -1,0 +1,49 @@
+{
+ "vendor": "Google Cloud",
+ "name": "Associate Cloud Engineer",
+ "code": "Associate-Cloud-Engineer",
+ "hook": "Deploy, run and secure workloads on Google Cloud.",
+ "facts": [
+  [
+   "Questions",
+   "50–60 (multiple choice/select)"
+  ],
+  [
+   "Time",
+   "120 minutes"
+  ],
+  [
+   "Price",
+   "$125 USD"
+  ],
+  [
+   "Level",
+   "Associate · 6+ months hands-on"
+  ]
+ ],
+ "domains": [
+  [
+   "Cloud Solution Environment",
+   "~20%"
+  ],
+  [
+   "Plan & Implement Solutions",
+   "~30%"
+  ],
+  [
+   "Successful Operation",
+   "~30%"
+  ],
+  [
+   "Access & Security",
+   "~20%"
+  ]
+ ],
+ "tips": [
+  "Practise gcloud CLI and Cloud Console tasks",
+  "Know Compute Engine, GKE and Cloud Run",
+  "Review IAM roles and service accounts",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the Google Cloud Associate Cloud Engineer certification exam? 🚀\n🎯 Exam Format: 50–60 questions | 120 minutes | $125\n📚 Key Topics to Focus On:\n\n* Planning and implementing a cloud solution\n* Ensuring the successful operation of a cloud solution\n* Setting up a cloud solution environment\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore Google Cloud Associate Cloud Engineer practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward Google Cloud certifications!\n#GoogleCloud #AssociateCloudEngineer #CloudSolutions #CloudOperations #CloudEnvironment #GoogleCloudCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

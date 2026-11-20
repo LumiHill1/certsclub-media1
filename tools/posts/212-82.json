@@ -1,0 +1,65 @@
+{
+ "vendor": "EC-Council",
+ "name": "Cybersecurity Technician",
+ "code": "212-82",
+ "hook": "Hands-on cyber defense skills for new practitioners.",
+ "facts": [
+  [
+   "Questions",
+   "60 (50 MCQ + 10 practical)"
+  ],
+  [
+   "Time",
+   "3 hours"
+  ],
+  [
+   "Price",
+   "$499 USD (exam voucher)"
+  ],
+  [
+   "Level",
+   "Technician · CCT v1"
+  ]
+ ],
+ "domains": [
+  [
+   "InfoSec Threats & Attacks",
+   "11%"
+  ],
+  [
+   "Network Security Fundamentals",
+   "7%"
+  ],
+  [
+   "Network Security Controls",
+   "23%"
+  ],
+  [
+   "App Security & Cloud Computing",
+   "9%"
+  ],
+  [
+   "Wireless Device Security",
+   "11%"
+  ],
+  [
+   "Data Security",
+   "10%"
+  ],
+  [
+   "Network Monitoring & Analysis",
+   "16%"
+  ],
+  [
+   "Incident & Risk Management",
+   "13%"
+  ]
+ ],
+ "tips": [
+  "Master firewalls, IDS/IPS and access controls",
+  "Practise traffic and log analysis hands-on",
+  "Review incident handling and risk basics",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the EC-Council 212-82 – Certified Cybersecurity Technician (C|CT) certification exam? 🚀\n🎯 Exam Format: 60 questions | 3 hours | $499\n📚 Key Topics to Focus On:\n\n* Network Security Controls\n* Network Monitoring and Analysis\n* Incident and Risk Management\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore EC-Council 212-82 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward EC-Council certifications!\n#ECCouncil #21282 #NetworkSecurity #NetworkMonitoring #IncidentResponse #ECCouncilCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

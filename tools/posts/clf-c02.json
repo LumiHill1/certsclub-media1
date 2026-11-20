@@ -1,0 +1,49 @@
+{
+ "vendor": "AWS",
+ "name": "Cloud Practitioner",
+ "code": "CLF-C02",
+ "hook": "Foundational AWS cloud knowledge for any role.",
+ "facts": [
+  [
+   "Questions",
+   "65 (50 scored + 15 unscored)"
+  ],
+  [
+   "Time",
+   "90 minutes"
+  ],
+  [
+   "Price",
+   "$100 USD"
+  ],
+  [
+   "Level",
+   "Foundational · pass 700 (100–1000)"
+  ]
+ ],
+ "domains": [
+  [
+   "Cloud Concepts",
+   "24%"
+  ],
+  [
+   "Security & Compliance",
+   "30%"
+  ],
+  [
+   "Cloud Technology & Services",
+   "34%"
+  ],
+  [
+   "Billing, Pricing & Support",
+   "12%"
+  ]
+ ],
+ "tips": [
+  "Know core services: EC2, S3, RDS, Lambda",
+  "Master shared responsibility and IAM",
+  "Review pricing models, billing and support",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the AWS CLF-C02 – Cloud Practitioner certification exam? 🚀\n🎯 Exam Format: 65 questions | 90 minutes | $100\n📚 Key Topics to Focus On:\n\n* Cloud Technology and Services\n* Security and Compliance\n* Cloud Concepts\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore AWS CLF-C02 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward AWS certifications!\n#AWS #CLFC02 #CloudComputing #CloudSecurity #CloudConcepts #AWSCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

@@ -1,0 +1,61 @@
+{
+ "vendor": "Appian",
+ "name": "Associate Developer",
+ "code": "ACD101",
+ "hook": "Build low-code apps on the Appian platform.",
+ "facts": [
+  [
+   "Questions",
+   "60"
+  ],
+  [
+   "Time",
+   "60 minutes"
+  ],
+  [
+   "Price",
+   "$250 USD"
+  ],
+  [
+   "Level",
+   "Associate · pass 73%"
+  ]
+ ],
+ "domains": [
+  [
+   "Interface Design",
+   "19%"
+  ],
+  [
+   "Process Models",
+   "17%"
+  ],
+  [
+   "Expression Rules",
+   "15%"
+  ],
+  [
+   "Intro to the Appian Platform",
+   "14%"
+  ],
+  [
+   "Data Persistence",
+   "13%"
+  ],
+  [
+   "Records",
+   "13%"
+  ],
+  [
+   "General Appian Principles",
+   "9%"
+  ]
+ ],
+ "tips": [
+  "Build interfaces with SAIL components",
+  "Design process models and smart services",
+  "Write and test expression rules",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the Appian ACD101 – Associate Developer certification exam? 🚀\n🎯 Exam Format: 60 questions | 60 minutes | $250\n📚 Key Topics to Focus On:\n\n* Interface Design\n* Process Models\n* Expression Rules\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore Appian ACD101 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward Appian certifications!\n#Appian #ACD101 #LowCode #ProcessAutomation #AppDevelopment #AppianCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

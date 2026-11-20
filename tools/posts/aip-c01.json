@@ -1,0 +1,53 @@
+{
+ "vendor": "AWS",
+ "name": "Gen AI Developer Pro",
+ "code": "AIP-C01",
+ "hook": "Build production gen AI apps on AWS.",
+ "facts": [
+  [
+   "Questions",
+   "75 (65 scored + 10 unscored)"
+  ],
+  [
+   "Time",
+   "180 minutes"
+  ],
+  [
+   "Price",
+   "$300 USD"
+  ],
+  [
+   "Level",
+   "Professional · pass 750 (100–1000)"
+  ]
+ ],
+ "domains": [
+  [
+   "FM Integration, Data, Compliance",
+   "31%"
+  ],
+  [
+   "Implementation & Integration",
+   "26%"
+  ],
+  [
+   "AI Safety, Security & Governance",
+   "20%"
+  ],
+  [
+   "Operational Efficiency & Optim.",
+   "12%"
+  ],
+  [
+   "Testing & Troubleshooting",
+   "11%"
+  ]
+ ],
+ "tips": [
+  "Master Amazon Bedrock, agents and RAG",
+  "Know guardrails, IAM and data privacy",
+  "Optimize cost, latency and model choice",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the AWS AIP-C01 – AWS Certified Generative AI Developer – Professional certification exam? 🚀\n🎯 Exam Format: 75 questions | 180 minutes | $300\n📚 Key Topics to Focus On:\n\n* Foundation Model Integration, Data Management, and Compliance\n* Implementation and Integration\n* AI Safety, Security, and Governance\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore AWS AIP-C01 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward AWS certifications!\n#AWS #AIPC01 #GenerativeAI #AmazonBedrock #AWSCloud #AWSCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

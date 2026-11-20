@@ -1,0 +1,45 @@
+{
+ "vendor": "Microsoft",
+ "name": "Information Security Admin",
+ "code": "SC-401",
+ "hook": "Protect data in Microsoft 365 with Purview.",
+ "facts": [
+  [
+   "Questions",
+   "40–60 (varies by exam)"
+  ],
+  [
+   "Time",
+   "100 minutes"
+  ],
+  [
+   "Price",
+   "$165 USD (US price)"
+  ],
+  [
+   "Level",
+   "Intermediate · pass 700"
+  ]
+ ],
+ "domains": [
+  [
+   "Information Protection",
+   "30–35%"
+  ],
+  [
+   "DLP & Retention",
+   "30–35%"
+  ],
+  [
+   "Risks, Alerts & Activities",
+   "30–35%"
+  ]
+ ],
+ "tips": [
+  "Master sensitivity labels and classifiers",
+  "Practise DLP and retention policies",
+  "Review insider risk and audit in Purview",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the Microsoft SC-401 – Information Security Administrator certification exam? 🚀\n🎯 Exam Format: 40–60 questions | 100 minutes | $165\n📚 Key Topics to Focus On:\n\n* Implement information protection\n* Implement data loss prevention and retention\n* Manage risks, alerts, and activities\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore Microsoft SC-401 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward Microsoft certifications!\n#Microsoft #SC401 #MicrosoftPurview #DataProtection #CyberSecurity #MicrosoftCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

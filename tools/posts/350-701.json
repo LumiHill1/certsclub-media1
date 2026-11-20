@@ -1,0 +1,57 @@
+{
+ "vendor": "Cisco",
+ "name": "CCNP Security Core (SCOR)",
+ "code": "350-701",
+ "hook": "Core security tech for CCNP and CCIE Security.",
+ "facts": [
+  [
+   "Questions",
+   "Varies (not published)"
+  ],
+  [
+   "Time",
+   "120 minutes"
+  ],
+  [
+   "Price",
+   "$400 USD"
+  ],
+  [
+   "Level",
+   "Professional · SCOR v2.0"
+  ]
+ ],
+ "domains": [
+  [
+   "Security Concepts",
+   "20%"
+  ],
+  [
+   "Network Security",
+   "25%"
+  ],
+  [
+   "Cloud Security",
+   "15%"
+  ],
+  [
+   "Secure Service Edge",
+   "10%"
+  ],
+  [
+   "Endpoint Protection & Detection",
+   "15%"
+  ],
+  [
+   "Access, Visibility & Enforcement",
+   "15%"
+  ]
+ ],
+ "tips": [
+  "Know VPNs, firewalls and IPS deployment",
+  "Review SSE, SASE and cloud security models",
+  "Practise ISE, 802.1X and endpoint controls",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the Cisco 350-701 – Implementing and Operating Cisco Security Core Technologies (SCOR) certification exam? 🚀\n🎯 Exam Format: Variable number of questions | 120 minutes | $400\n📚 Key Topics to Focus On:\n\n* Network Security\n* Security Concepts\n* Cloud Security\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore Cisco 350-701 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward Cisco certifications!\n#Cisco #350701 #NetworkSecurity #SecurityConcepts #CloudSecurity #CiscoCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

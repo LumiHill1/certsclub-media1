@@ -1,0 +1,53 @@
+{
+ "vendor": "Microsoft",
+ "name": "Azure AI Apps & Agents Dev",
+ "code": "AI-103",
+ "hook": "Build generative AI apps and agents on Azure.",
+ "facts": [
+  [
+   "Questions",
+   "40–60 (varies by exam)"
+  ],
+  [
+   "Time",
+   "120 minutes"
+  ],
+  [
+   "Price",
+   "$165 USD (US price)"
+  ],
+  [
+   "Level",
+   "Associate (beta) · pass 700"
+  ]
+ ],
+ "domains": [
+  [
+   "Plan & Manage Azure AI Solution",
+   "25–30%"
+  ],
+  [
+   "Generative AI & Agentic AI",
+   "30–35%"
+  ],
+  [
+   "Computer Vision Solutions",
+   "10–15%"
+  ],
+  [
+   "Text Analysis Solutions",
+   "10–15%"
+  ],
+  [
+   "Information Extraction",
+   "10–15%"
+  ]
+ ],
+ "tips": [
+  "Master Microsoft Foundry and agent services",
+  "Practise RAG, prompts and model deployment",
+  "Review vision, language and doc extraction",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the Microsoft AI-103 – Azure AI Apps and Agents Developer certification exam? 🚀\n🎯 Exam Format: 40–60 questions | 120 minutes | $165\n📚 Key Topics to Focus On:\n\n* Implement generative AI and agentic solutions\n* Plan and manage an Azure AI solution\n* Implement computer vision solutions\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore Microsoft AI-103 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward Microsoft certifications!\n#Microsoft #AI103 #Azure #GenerativeAI #AIAgents #MicrosoftCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

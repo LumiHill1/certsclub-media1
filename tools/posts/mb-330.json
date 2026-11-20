@@ -1,0 +1,53 @@
+{
+ "vendor": "Microsoft",
+ "name": "D365 Supply Chain Consultant",
+ "code": "MB-330",
+ "hook": "Run products, inventory and warehouses in D365.",
+ "facts": [
+  [
+   "Questions",
+   "40–60 (varies by exam)"
+  ],
+  [
+   "Time",
+   "100 minutes"
+  ],
+  [
+   "Price",
+   "$165 USD (US price)"
+  ],
+  [
+   "Level",
+   "Associate (Intermediate)"
+  ]
+ ],
+ "domains": [
+  [
+   "Product Information Management",
+   "25–30%"
+  ],
+  [
+   "Inventory & Asset Management",
+   "20–25%"
+  ],
+  [
+   "Supply Chain Processes",
+   "15–20%"
+  ],
+  [
+   "Warehouse & Transportation",
+   "20–25%"
+  ],
+  [
+   "Master Planning",
+   "10–15%"
+  ]
+ ],
+ "tips": [
+  "Know products, variants and released products",
+  "Practise warehouse and transport setup",
+  "Run master planning and review planned orders",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the Microsoft MB-330 – Dynamics 365 Supply Chain Management Functional Consultant certification exam? 🚀\n🎯 Exam Format: 40–60 questions | 100 minutes | $165\n📚 Key Topics to Focus On:\n\n* Implement product information management\n* Implement inventory and asset management\n* Implement warehouse management and transportation management\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore Microsoft MB-330 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward Microsoft certifications!\n#Microsoft #MB330 #ProductInformationManagement #InventoryManagement #WarehouseManagement #MicrosoftCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

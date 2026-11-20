@@ -1,0 +1,53 @@
+{
+ "vendor": "CompTIA",
+ "name": "A+ Core 1",
+ "code": "220-1201",
+ "hook": "Hardware, networking and mobile device support.",
+ "facts": [
+  [
+   "Questions",
+   "Up to 90 (MCQ + performance-based)"
+  ],
+  [
+   "Time",
+   "90 minutes"
+  ],
+  [
+   "Price",
+   "$274 USD"
+  ],
+  [
+   "Level",
+   "Core · pass 675 (100–900)"
+  ]
+ ],
+ "domains": [
+  [
+   "Mobile Devices",
+   "13%"
+  ],
+  [
+   "Networking",
+   "23%"
+  ],
+  [
+   "Hardware",
+   "25%"
+  ],
+  [
+   "Virtualization & Cloud Computing",
+   "11%"
+  ],
+  [
+   "Hardware & Network Troubleshoot",
+   "28%"
+  ]
+ ],
+ "tips": [
+  "Troubleshoot hardware and network issues",
+  "Know ports, protocols and Wi-Fi standards",
+  "Review RAM, storage, printers and CPUs",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the CompTIA 220-1201 – A+ Core 1 certification exam? 🚀\n🎯 Exam Format: Up to 90 questions | 90 minutes | $274\n📚 Key Topics to Focus On:\n\n* Hardware and Network Troubleshooting\n* Hardware\n* Networking\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore CompTIA 220-1201 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward CompTIA certifications!\n#CompTIA #2201201 #CompTIAAPlus #Hardware #Networking #CompTIACertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

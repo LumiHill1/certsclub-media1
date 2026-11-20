@@ -1,0 +1,53 @@
+{
+ "vendor": "AWS",
+ "name": "AI Practitioner",
+ "code": "AIF-C01",
+ "hook": "AI, ML and generative AI foundations on AWS.",
+ "facts": [
+  [
+   "Questions",
+   "65 (50 scored + 15 unscored)"
+  ],
+  [
+   "Time",
+   "90 minutes"
+  ],
+  [
+   "Price",
+   "$100 USD"
+  ],
+  [
+   "Level",
+   "Foundational · pass 700 (100–1000)"
+  ]
+ ],
+ "domains": [
+  [
+   "Fundamentals of AI & ML",
+   "20%"
+  ],
+  [
+   "Fundamentals of GenAI",
+   "24%"
+  ],
+  [
+   "Foundation Model Applications",
+   "28%"
+  ],
+  [
+   "Guidelines for Responsible AI",
+   "14%"
+  ],
+  [
+   "Security, Compliance, Governance",
+   "14%"
+  ]
+ ],
+ "tips": [
+  "Know Bedrock, SageMaker and AI services",
+  "Practise prompt engineering and RAG",
+  "Review responsible AI and governance",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the AWS AIF-C01 – AI Practitioner certification exam? 🚀\n🎯 Exam Format: 65 questions | 90 minutes | $100\n📚 Key Topics to Focus On:\n\n* Foundation Model Applications\n* Fundamentals of GenAI\n* Fundamentals of AI and ML\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore AWS AIF-C01 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward AWS certifications!\n#AWS #AIFC01 #GenerativeAI #AmazonBedrock #MachineLearning #AWSCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

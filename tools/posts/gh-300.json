@@ -1,0 +1,57 @@
+{
+ "vendor": "GitHub",
+ "name": "GitHub Copilot",
+ "code": "GH-300",
+ "hook": "Prove you can code smarter with GitHub Copilot.",
+ "facts": [
+  [
+   "Questions",
+   "Varies (multiple choice/response)"
+  ],
+  [
+   "Time",
+   "100 minutes"
+  ],
+  [
+   "Price",
+   "$99 USD"
+  ],
+  [
+   "Level",
+   "Intermediate · pass 700"
+  ]
+ ],
+ "domains": [
+  [
+   "Use Copilot Responsibly",
+   "15–20%"
+  ],
+  [
+   "Use Copilot Features",
+   "25–30%"
+  ],
+  [
+   "Data & Architecture",
+   "10–15%"
+  ],
+  [
+   "Prompt Engineering & Context",
+   "10–15%"
+  ],
+  [
+   "Developer Productivity",
+   "10–15%"
+  ],
+  [
+   "Privacy, Exclusions & Safeguards",
+   "10–15%"
+  ]
+ ],
+ "tips": [
+  "Use Copilot in the IDE, chat and CLI daily",
+  "Learn org policies and content exclusions",
+  "Practise prompts that give Copilot context",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the GitHub GH-300 – GitHub Copilot certification exam? 🚀\n🎯 Exam Format: Variable number of questions | 100 minutes | $99\n📚 Key Topics to Focus On:\n\n* Use GitHub Copilot features\n* Use GitHub Copilot responsibly\n* Apply prompt engineering and context crafting\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore GitHub GH-300 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward GitHub certifications!\n#GitHub #GH300 #GitHubCopilot #ResponsibleAI #PromptEngineering #GitHubCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

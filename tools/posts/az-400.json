@@ -1,0 +1,53 @@
+{
+ "vendor": "Microsoft",
+ "name": "Azure DevOps Engineer",
+ "code": "AZ-400",
+ "hook": "Design and run DevOps on Azure DevOps and GitHub.",
+ "facts": [
+  [
+   "Questions",
+   "40–60 (varies by exam)"
+  ],
+  [
+   "Time",
+   "100 minutes"
+  ],
+  [
+   "Price",
+   "$165 USD (US price)"
+  ],
+  [
+   "Level",
+   "Expert · pass 700"
+  ]
+ ],
+ "domains": [
+  [
+   "Processes & Communications",
+   "10–15%"
+  ],
+  [
+   "Source Control Strategy",
+   "10–15%"
+  ],
+  [
+   "Build & Release Pipelines",
+   "50–55%"
+  ],
+  [
+   "Security & Compliance Plan",
+   "10–15%"
+  ],
+  [
+   "Instrumentation Strategy",
+   "5–10%"
+  ]
+ ],
+ "tips": [
+  "Master YAML pipelines and release strategies",
+  "Know Git branching, PRs and repo policies",
+  "Review secrets, scanning and compliance",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the Microsoft AZ-400 – Designing and Implementing Microsoft DevOps Solutions certification exam? 🚀\n🎯 Exam Format: 40–60 questions | 100 minutes | $165\n📚 Key Topics to Focus On:\n\n* Design and implement build and release pipelines\n* Design and implement processes and communications\n* Design and implement a source control strategy\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore Microsoft AZ-400 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward Microsoft certifications!\n#Microsoft #AZ400 #CICDPipelines #DevOpsProcesses #SourceControl #MicrosoftCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

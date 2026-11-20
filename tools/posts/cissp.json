@@ -1,0 +1,65 @@
+{
+ "vendor": "ISC2",
+ "name": "CISSP",
+ "code": "CISSP",
+ "hook": "Elite security leadership across 8 domains.",
+ "facts": [
+  [
+   "Questions",
+   "100–150 (adaptive CAT)"
+  ],
+  [
+   "Time",
+   "3 hours"
+  ],
+  [
+   "Price",
+   "$749 USD"
+  ],
+  [
+   "Level",
+   "Expert · pass 700 (of 1000)"
+  ]
+ ],
+ "domains": [
+  [
+   "Security & Risk Management",
+   "16%"
+  ],
+  [
+   "Asset Security",
+   "10%"
+  ],
+  [
+   "Security Architecture & Eng.",
+   "13%"
+  ],
+  [
+   "Communication & Network Security",
+   "13%"
+  ],
+  [
+   "Identity & Access Management",
+   "13%"
+  ],
+  [
+   "Security Assessment & Testing",
+   "12%"
+  ],
+  [
+   "Security Operations",
+   "13%"
+  ],
+  [
+   "Software Development Security",
+   "10%"
+  ]
+ ],
+ "tips": [
+  "Think like a manager, not a technician",
+  "Know risk, governance and BCP concepts",
+  "Review IAM, crypto and secure design",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the ISC2 CISSP – Certified Information Systems Security Professional certification exam? 🚀\n🎯 Exam Format: 100–150 questions | 3 hours | $749\n📚 Key Topics to Focus On:\n\n* Security and Risk Management\n* Security Architecture and Engineering\n* Communication and Network Security\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore ISC2 CISSP practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward ISC2 certifications!\n#ISC2 #CISSP #CyberSecurity #RiskManagement #InfoSec #ISC2Certification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

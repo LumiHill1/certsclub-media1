@@ -1,0 +1,53 @@
+{
+ "vendor": "CNCF",
+ "name": "Kubernetes Administrator",
+ "code": "CKA",
+ "hook": "Hands-on Kubernetes cluster administration.",
+ "facts": [
+  [
+   "Questions",
+   "Performance-based tasks (CLI)"
+  ],
+  [
+   "Time",
+   "2 hours"
+  ],
+  [
+   "Price",
+   "$445 USD (incl. 1 free retake)"
+  ],
+  [
+   "Level",
+   "Professional · online, proctored"
+  ]
+ ],
+ "domains": [
+  [
+   "Cluster Arch, Install & Config",
+   "25%"
+  ],
+  [
+   "Workloads & Scheduling",
+   "15%"
+  ],
+  [
+   "Services & Networking",
+   "20%"
+  ],
+  [
+   "Storage",
+   "10%"
+  ],
+  [
+   "Troubleshooting",
+   "30%"
+  ]
+ ],
+ "tips": [
+  "Practise kubectl speed and imperative cmds",
+  "Troubleshoot nodes, pods and networking",
+  "Know RBAC, kubeadm and etcd backup",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the CNCF CKA – Kubernetes Administrator certification exam? 🚀\n🎯 Exam Format: Performance-based questions | 2 hours | $445\n📚 Key Topics to Focus On:\n\n* Troubleshooting\n* Cluster Architecture, Installation & Configuration\n* Services & Networking\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore CNCF CKA practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward CNCF certifications!\n#CNCF #CKA #Kubernetes #CloudNative #DevOps #CNCFCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

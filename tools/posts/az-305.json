@@ -1,0 +1,49 @@
+{
+ "vendor": "Microsoft",
+ "name": "Azure Solutions Architect",
+ "code": "AZ-305",
+ "hook": "Design identity, data, continuity and infra on Azure.",
+ "facts": [
+  [
+   "Questions",
+   "40–60 (varies by exam)"
+  ],
+  [
+   "Time",
+   "100 minutes"
+  ],
+  [
+   "Price",
+   "$165 USD (US price)"
+  ],
+  [
+   "Level",
+   "Expert · pass 700"
+  ]
+ ],
+ "domains": [
+  [
+   "Identity, Governance, Monitoring",
+   "25–30%"
+  ],
+  [
+   "Data Storage Solutions",
+   "20–25%"
+  ],
+  [
+   "Business Continuity Solutions",
+   "15–20%"
+  ],
+  [
+   "Infrastructure Solutions",
+   "30–35%"
+  ]
+ ],
+ "tips": [
+  "Map requirements to the right Azure service",
+  "Design Entra ID, governance and monitoring",
+  "Plan backup, DR and high availability",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the Microsoft AZ-305 – Azure Solutions Architect certification exam? 🚀\n🎯 Exam Format: 40–60 questions | 100 minutes | $165\n📚 Key Topics to Focus On:\n\n* Design infrastructure solutions\n* Design identity, governance, and monitoring solutions\n* Design data storage solutions\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore Microsoft AZ-305 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward Microsoft certifications!\n#Microsoft #AZ305 #Azure #AzureArchitect #CloudArchitecture #MicrosoftCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

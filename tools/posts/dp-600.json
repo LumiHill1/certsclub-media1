@@ -1,0 +1,45 @@
+{
+ "vendor": "Microsoft",
+ "name": "Fabric Analytics Engineer",
+ "code": "DP-600",
+ "hook": "Build enterprise analytics with Microsoft Fabric.",
+ "facts": [
+  [
+   "Questions",
+   "40–60 (varies by exam)"
+  ],
+  [
+   "Time",
+   "100 minutes"
+  ],
+  [
+   "Price",
+   "$165 USD (US price)"
+  ],
+  [
+   "Level",
+   "Associate (Intermediate)"
+  ]
+ ],
+ "domains": [
+  [
+   "Maintain Analytics Solution",
+   "25–30%"
+  ],
+  [
+   "Prepare Data",
+   "45–50%"
+  ],
+  [
+   "Semantic Models",
+   "25–30%"
+  ]
+ ],
+ "tips": [
+  "Practise SQL, KQL and DAX queries",
+  "Build lakehouses, warehouses and pipelines",
+  "Optimise semantic models and security",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the Microsoft DP-600 – Fabric Analytics Engineer certification exam? 🚀\n🎯 Exam Format: 40–60 questions | 100 minutes | $165\n📚 Key Topics to Focus On:\n\n* Prepare data\n* Maintain a data analytics solution\n* Implement and manage semantic models\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore Microsoft DP-600 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward Microsoft certifications!\n#Microsoft #DP600 #MicrosoftFabric #PowerBI #DataAnalytics #MicrosoftCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

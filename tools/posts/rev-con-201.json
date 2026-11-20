@@ -1,0 +1,61 @@
+{
+ "vendor": "Salesforce",
+ "name": "Revenue Management Consultant",
+ "code": "Rev-Con-201",
+ "hook": "Design and implement Revenue Cloud quote-to-cash.",
+ "facts": [
+  [
+   "Questions",
+   "60 (+ up to 5 unscored)"
+  ],
+  [
+   "Time",
+   "105 minutes"
+  ],
+  [
+   "Price",
+   "$200 USD (retake $100)"
+  ],
+  [
+   "Level",
+   "Consultant · pass 63%"
+  ]
+ ],
+ "domains": [
+  [
+   "Revenue Mgmt Platform Concepts",
+   "18%"
+  ],
+  [
+   "Implementation Readiness",
+   "14%"
+  ],
+  [
+   "Catalog Management",
+   "16%"
+  ],
+  [
+   "Configure, Price, Quote",
+   "18%"
+  ],
+  [
+   "Contracts & Orders",
+   "11%"
+  ],
+  [
+   "Asset Management",
+   "16%"
+  ],
+  [
+   "Invoice Management",
+   "7%"
+  ]
+ ],
+ "tips": [
+  "Master product catalog and pricing setup",
+  "Practise CPQ, contracts and order flows",
+  "Review asset lifecycle and invoicing",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the Salesforce Rev-Con-201 – Revenue Management Consultant certification exam? 🚀\n🎯 Exam Format: 60 questions | 105 minutes | $200\n📚 Key Topics to Focus On:\n\n* Agentforce Revenue Management Platform Concepts\n* Configure, Price, Quote\n* Catalog Management\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore Salesforce Rev-Con-201 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward Salesforce certifications!\n#Salesforce #RevCon201 #RevenueCloud #CPQ #QuoteToCash #SalesforceCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

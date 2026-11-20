@@ -1,0 +1,57 @@
+{
+ "vendor": "Microsoft",
+ "name": "Business Central Developer",
+ "code": "MB-820",
+ "hook": "Build and extend Business Central with AL.",
+ "facts": [
+  [
+   "Questions",
+   "40–60 (varies by exam)"
+  ],
+  [
+   "Time",
+   "100 minutes"
+  ],
+  [
+   "Price",
+   "$165 USD (US price)"
+  ],
+  [
+   "Level",
+   "Associate (Intermediate)"
+  ]
+ ],
+ "domains": [
+  [
+   "Describe Business Central",
+   "10–15%"
+  ],
+  [
+   "Install, Develop & Deploy",
+   "10–15%"
+  ],
+  [
+   "Develop with AL Objects",
+   "35–40%"
+  ],
+  [
+   "Develop with AL",
+   "15–20%"
+  ],
+  [
+   "Development Tools",
+   "10–15%"
+  ],
+  [
+   "Integrate with Other Apps",
+   "10–15%"
+  ]
+ ],
+ "tips": [
+  "Build tables, pages, reports and codeunits",
+  "Practise AL code, events and extensions",
+  "Learn VS Code, debugging and APIs",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the Microsoft MB-820 – Dynamics 365 Business Central Developer certification exam? 🚀\n🎯 Exam Format: 40–60 questions | 100 minutes | $165\n📚 Key Topics to Focus On:\n\n* Develop by using AL objects\n* Develop by using AL\n* Integrate Business Central with other applications\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore Microsoft MB-820 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward Microsoft certifications!\n#Microsoft #MB820 #BusinessCentral #ALDevelopment #Dynamics365 #MicrosoftCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

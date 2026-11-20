@@ -1,0 +1,53 @@
+{
+ "vendor": "Microsoft",
+ "name": "Azure Network Engineer",
+ "code": "AZ-700",
+ "hook": "Design and secure Azure networking solutions.",
+ "facts": [
+  [
+   "Questions",
+   "40–60 (typical, varies)"
+  ],
+  [
+   "Time",
+   "100 minutes"
+  ],
+  [
+   "Price",
+   "$165 USD (US price)"
+  ],
+  [
+   "Level",
+   "Associate · pass 700"
+  ]
+ ],
+ "domains": [
+  [
+   "Core Networking Infrastructure",
+   "25–30%"
+  ],
+  [
+   "Connectivity Services",
+   "20–25%"
+  ],
+  [
+   "Application Delivery Services",
+   "15–20%"
+  ],
+  [
+   "Private Access to Azure Services",
+   "10–15%"
+  ],
+  [
+   "Azure Network Security Services",
+   "15–20%"
+  ]
+ ],
+ "tips": [
+  "Master VNets, peering, DNS and routing",
+  "Lab VPN Gateway, ExpressRoute and vWAN",
+  "Know Front Door, App Gateway, Firewall",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the Microsoft AZ-700 – Azure Network Engineer Associate certification exam? 🚀\n🎯 Exam Format: 40–60 questions | 100 minutes | $165\n📚 Key Topics to Focus On:\n\n* Design and implement core networking infrastructure\n* Design, implement, and manage connectivity services\n* Design and implement application delivery services\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore Microsoft AZ-700 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward Microsoft certifications!\n#Microsoft #AZ700 #Azure #AzureNetworking #CloudComputing #MicrosoftCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

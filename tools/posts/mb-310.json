@@ -1,0 +1,53 @@
+{
+ "vendor": "Microsoft",
+ "name": "D365 Finance Consultant",
+ "code": "MB-310",
+ "hook": "Configure Dynamics 365 Finance for real businesses.",
+ "facts": [
+  [
+   "Questions",
+   "40–60 (varies by exam)"
+  ],
+  [
+   "Time",
+   "100 minutes"
+  ],
+  [
+   "Price",
+   "$165 USD (US price)"
+  ],
+  [
+   "Level",
+   "Associate (Intermediate)"
+  ]
+ ],
+ "domains": [
+  [
+   "Financial Management",
+   "35–40%"
+  ],
+  [
+   "Receivables, Credit & Billing",
+   "15–20%"
+  ],
+  [
+   "Payables & Expenses",
+   "10–15%"
+  ],
+  [
+   "Budgeting",
+   "10–15%"
+  ],
+  [
+   "Fixed Assets",
+   "10–15%"
+  ]
+ ],
+ "tips": [
+  "Master ledger setup, posting and periods",
+  "Practise AR, collections and AP workflows",
+  "Configure budgets and fixed asset books",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the Microsoft MB-310 – Dynamics 365 Finance Functional Consultant certification exam? 🚀\n🎯 Exam Format: 40–60 questions | 100 minutes | $165\n📚 Key Topics to Focus On:\n\n* Implement financial management\n* Implement accounts receivable, credit, collections, and subscription billing\n* Implement and manage accounts payable and expenses\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore Microsoft MB-310 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward Microsoft certifications!\n#Microsoft #MB310 #FinancialManagement #AccountsReceivable #AccountsPayable #MicrosoftCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

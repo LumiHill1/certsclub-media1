@@ -1,0 +1,53 @@
+{
+ "vendor": "CompTIA",
+ "name": "Network+",
+ "code": "N10-009",
+ "hook": "Design, run and troubleshoot modern networks.",
+ "facts": [
+  [
+   "Questions",
+   "Up to 90 (MCQ + performance-based)"
+  ],
+  [
+   "Time",
+   "90 minutes"
+  ],
+  [
+   "Price",
+   "$399 USD"
+  ],
+  [
+   "Level",
+   "Core · pass 720 (100–900)"
+  ]
+ ],
+ "domains": [
+  [
+   "Networking Concepts",
+   "23%"
+  ],
+  [
+   "Network Implementation",
+   "20%"
+  ],
+  [
+   "Network Operations",
+   "19%"
+  ],
+  [
+   "Network Security",
+   "14%"
+  ],
+  [
+   "Network Troubleshooting",
+   "24%"
+  ]
+ ],
+ "tips": [
+  "Know OSI, ports, protocols and subnetting",
+  "Practise troubleshooting methodology",
+  "Review routing, switching and wireless",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the CompTIA N10-009 – Network+ certification exam? 🚀\n🎯 Exam Format: Up to 90 questions | 90 minutes | $399\n📚 Key Topics to Focus On:\n\n* Network Troubleshooting\n* Networking Concepts\n* Network Implementation\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore CompTIA N10-009 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward CompTIA certifications!\n#CompTIA #N10009 #NetworkPlus #Networking #Troubleshooting #CompTIACertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

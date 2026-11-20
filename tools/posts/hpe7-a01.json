@@ -1,0 +1,73 @@
+{
+ "vendor": "HPE Aruba",
+ "name": "Campus Access Professional",
+ "code": "HPE7-A01",
+ "hook": "Wired and wireless campus networks with HPE Aruba.",
+ "facts": [
+  [
+   "Questions",
+   "75 (may include beta items)"
+  ],
+  [
+   "Time",
+   "120 minutes"
+  ],
+  [
+   "Price",
+   "$350 USD"
+  ],
+  [
+   "Level",
+   "Professional · pass 68%"
+  ]
+ ],
+ "domains": [
+  [
+   "WLAN",
+   "17%"
+  ],
+  [
+   "Switching",
+   "14%"
+  ],
+  [
+   "Routing",
+   "13%"
+  ],
+  [
+   "Security",
+   "9%"
+  ],
+  [
+   "Connectivity",
+   "8%"
+  ],
+  [
+   "Resiliency & Virtualization",
+   "8%"
+  ],
+  [
+   "Authentication & Authorization",
+   "8%"
+  ],
+  [
+   "Performance Optimization",
+   "7%"
+  ],
+  [
+   "Managing & Monitoring",
+   "6%"
+  ],
+  [
+   "Troubleshooting",
+   "6%"
+  ]
+ ],
+ "tips": [
+  "Master AOS-CX switching, VSX and VSF",
+  "Configure WLANs, roles and RF tuning",
+  "Review OSPF, BGP and 802.1X/ClearPass",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the HPE Aruba HPE7-A01 – Campus Access Professional certification exam? 🚀\n🎯 Exam Format: 75 questions | 120 minutes | $350\n📚 Key Topics to Focus On:\n\n* WLAN\n* Switching\n* Routing\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore HPE Aruba HPE7-A01 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward HPE Aruba certifications!\n#HPEAruba #HPE7A01 #ArubaNetworking #WLAN #Switching #HPEArubaCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

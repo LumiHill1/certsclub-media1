@@ -1,0 +1,53 @@
+{
+ "vendor": "CompTIA",
+ "name": "PenTest+",
+ "code": "PT0-003",
+ "hook": "Plan, scope and run real penetration tests.",
+ "facts": [
+  [
+   "Questions",
+   "Up to 90 (MCQ + performance-based)"
+  ],
+  [
+   "Time",
+   "165 minutes"
+  ],
+  [
+   "Price",
+   "$439 USD"
+  ],
+  [
+   "Level",
+   "Pass 750 (100–900) · 3–4 yrs exp"
+  ]
+ ],
+ "domains": [
+  [
+   "Engagement Management",
+   "13%"
+  ],
+  [
+   "Reconnaissance & Enumeration",
+   "21%"
+  ],
+  [
+   "Vulnerability Discovery",
+   "17%"
+  ],
+  [
+   "Attacks & Exploits",
+   "35%"
+  ],
+  [
+   "Post-Exploitation & Lateral Move",
+   "14%"
+  ]
+ ],
+ "tips": [
+  "Know scoping, rules of engagement, reports",
+  "Practise recon and enumeration tools",
+  "Lab web, network and AD attack chains",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the CompTIA PT0-003 – PenTest+ certification exam? 🚀\n🎯 Exam Format: Up to 90 questions | 165 minutes | $439\n📚 Key Topics to Focus On:\n\n* Attacks and exploits\n* Reconnaissance and enumeration\n* Vulnerability discovery and analysis\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore CompTIA PT0-003 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward CompTIA certifications!\n#CompTIA #PT0003 #PenTestPlus #PenetrationTesting #EthicalHacking #CompTIACertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

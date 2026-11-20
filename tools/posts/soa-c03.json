@@ -1,0 +1,53 @@
+{
+ "vendor": "AWS",
+ "name": "CloudOps Engineer Associate",
+ "code": "SOA-C03",
+ "hook": "Operate, automate and secure workloads on AWS.",
+ "facts": [
+  [
+   "Questions",
+   "65 (50 scored + 15 unscored)"
+  ],
+  [
+   "Time",
+   "130 minutes"
+  ],
+  [
+   "Price",
+   "$150 USD"
+  ],
+  [
+   "Level",
+   "Associate · pass 720 (100–1000)"
+  ]
+ ],
+ "domains": [
+  [
+   "Monitoring & Performance",
+   "22%"
+  ],
+  [
+   "Reliability & Continuity",
+   "22%"
+  ],
+  [
+   "Deployment & Automation",
+   "22%"
+  ],
+  [
+   "Security & Compliance",
+   "16%"
+  ],
+  [
+   "Networking & Content Delivery",
+   "18%"
+  ]
+ ],
+ "tips": [
+  "Master CloudWatch metrics, logs and alarms",
+  "Practise backups, scaling and failover",
+  "Automate with CloudFormation and Systems Mgr",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the AWS SOA-C03 – CloudOps Engineer Associate certification exam? 🚀\n🎯 Exam Format: 65 questions | 130 minutes | $150\n📚 Key Topics to Focus On:\n\n* Monitoring, Logging, Analysis, Remediation, and Performance Optimization\n* Reliability and Business Continuity\n* Deployment, Provisioning, and Automation\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore AWS SOA-C03 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward AWS certifications!\n#AWS #SOAC03 #CloudOps #Reliability #Automation #AWSCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

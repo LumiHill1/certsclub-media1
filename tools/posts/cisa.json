@@ -1,0 +1,53 @@
+{
+ "vendor": "ISACA",
+ "name": "CISA",
+ "code": "CISA",
+ "hook": "Audit, control and assure information systems.",
+ "facts": [
+  [
+   "Questions",
+   "150 multiple-choice"
+  ],
+  [
+   "Time",
+   "4 hours (240 minutes)"
+  ],
+  [
+   "Price",
+   "$575 member / $760 non-member"
+  ],
+  [
+   "Level",
+   "Scaled 200–800 · pass 450"
+  ]
+ ],
+ "domains": [
+  [
+   "IS Auditing Process",
+   "18%"
+  ],
+  [
+   "Governance & Management of IT",
+   "18%"
+  ],
+  [
+   "IS Acquisition & Development",
+   "12%"
+  ],
+  [
+   "IS Operations & Resilience",
+   "26%"
+  ],
+  [
+   "Protection of Info Assets",
+   "26%"
+  ]
+ ],
+ "tips": [
+  "Think like an auditor: risk-based approach",
+  "Know BCP/DR, incident and ops controls",
+  "Review IAM, encryption and asset protection",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the ISACA CISA – Certified Information Systems Auditor certification exam? 🚀\n🎯 Exam Format: 150 questions | 4 hours | $575 member / $760 non-member\n📚 Key Topics to Focus On:\n\n* Information Systems Operations & Business Resilience\n* Protection of Information Assets\n* Information Systems Auditing Process\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore ISACA CISA practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward ISACA certifications!\n#ISACA #CISA #ITAudit #BusinessResilience #InformationSecurity #ISACACertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}
