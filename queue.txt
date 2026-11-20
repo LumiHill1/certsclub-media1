@@ -1,10 +1,5 @@
 # CertsClub Instagram queue — add one exam code per line (optionally "CODE | Exam name").
 # The weekly CertsClub task turns each line into a carousel and schedules it, then moves it to posted.txt.
-Plat-Admn-201
-AZ-104
-SY0-701
-NSE4_FGT_AD-7.6
-NetSec-Pro
 2V0-17.25
 200-301
 Data-Con-101

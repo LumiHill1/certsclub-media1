@@ -11,3 +11,8 @@ NCP-ADS | 2026-11-09 night (new caption)
 NCP-ARI | 2026-11-09 night (new caption)
 NCP-OUSD | 2026-11-09 night (new caption)
 NCP-IB | skipped (retired by NVIDIA, replaced by NCP-AIN)
+Plat-Admn-201 | 2026-11-21 10:00
+AZ-104 | 2026-11-21 13:00
+SY0-701 | 2026-11-21 16:00
+NSE4_FGT_AD-7.6 | 2026-11-21 19:00
+NetSec-Pro | skipped (exam format, duration and price not published on any official Palo Alto Networks page; only domain weights verifiable)
