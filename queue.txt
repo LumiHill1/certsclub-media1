@@ -1,10 +1,5 @@
 # CertsClub Instagram queue — add one exam code per line (optionally "CODE | Exam name").
 # The weekly CertsClub task turns each line into a carousel and schedules it, then moves it to posted.txt.
-2V0-17.25
-200-301
-Data-Con-101
-CS0-003
-FCSS_EFW_AD-7.6
 AZ-305
 HPE7-A01
 AIF-C01

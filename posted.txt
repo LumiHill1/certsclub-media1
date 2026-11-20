@@ -16,3 +16,8 @@ AZ-104 | 2026-11-21 13:00
 SY0-701 | 2026-11-21 16:00
 NSE4_FGT_AD-7.6 | 2026-11-21 19:00
 NetSec-Pro | skipped (exam format, duration and price not published on any official Palo Alto Networks page; only domain weights verifiable)
+2V0-17.25 | skipped (Broadcom exam guide publishes no domain weights; format verified: 60 Qs, 135 min, $250)
+200-301 | 2026-11-21 22:00
+Data-Con-101 | skipped (now "Data 360 Consultant"; official exam guide unreachable and published outlines conflict, so format and weights unverified)
+CS0-003 | 2026-11-22 10:00 (note: English V3 retires 2026-12-22; CS0-004 available)
+FCSS_EFW_AD-7.6 | skipped (official Fortinet exam page marks NSE 7 Enterprise Firewall 7.6 Administrator as Discontinued)
