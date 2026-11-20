@@ -3,7 +3,12 @@
 Usage: python3 render.py content.json outdir [style]
 style: navy | split | card | random (default random)
 """
-import json, os, random, sys
+import json, os, random, re, sys
+
+
+def pnum(p):
+    """Numeric weight from '17%' or a range like '20–25%' (uses the upper bound)."""
+    return float(re.findall(r"[\d.]+", p)[-1])
 from PIL import Image, ImageDraw, ImageFont
 
 W, H = 1080, 1350
@@ -81,11 +86,11 @@ def render(c, out, style):
     n = len(c["domains"])
     fs, gap = (40, 60) if n <= 6 else (34, 40) if n <= 8 else (30, 30)
     if n > 6: y -= 20
-    mx = max(float(p.strip("%")) for _, p in c["domains"])
+    mx = max(pnum(p) for _, p in c["domains"])
     for name, pct in c["domains"]:
         d.text((W - 100, y + 2), pct, font=F("Bold", fs), fill=s["ac"], anchor="ra")
         y2 = block(d, (100, y), name, F("SemiBold", fs), s["fg"], W - 340, 1.2)
-        frac = float(pct.strip("%")) / mx
+        frac = pnum(pct) / mx
         d.rounded_rectangle([100, y2 + 4, W - 100, y2 + 14], 5, fill=s["pa"] if s is not STYLES["card"] else s["bg"])
         d.rounded_rectangle([100, y2 + 4, 100 + (W - 200) * frac, y2 + 14], 5, fill=s["ac"])
         y = y2 + gap

@@ -1,0 +1,65 @@
+{
+ "vendor": "Salesforce",
+ "name": "Platform Administrator",
+ "code": "Plat-Admn-201",
+ "hook": "Configure, automate and manage a Salesforce org.",
+ "facts": [
+  [
+   "Questions",
+   "60 + up to 5 unscored"
+  ],
+  [
+   "Time",
+   "105 minutes"
+  ],
+  [
+   "Price",
+   "$200 USD"
+  ],
+  [
+   "Level",
+   "Administrator (6+ months experience)"
+  ]
+ ],
+ "domains": [
+  [
+   "Configuration and Setup",
+   "15%"
+  ],
+  [
+   "Object Manager & App Builder",
+   "15%"
+  ],
+  [
+   "Sales & Marketing Apps",
+   "10%"
+  ],
+  [
+   "Service & Support Apps",
+   "10%"
+  ],
+  [
+   "Productivity & Collaboration",
+   "10%"
+  ],
+  [
+   "Data & Analytics Management",
+   "17%"
+  ],
+  [
+   "Automation",
+   "15%"
+  ],
+  [
+   "Agentforce",
+   "8%"
+  ]
+ ],
+ "tips": [
+  "Practise security: profiles, permission sets, sharing",
+  "Build flows and validation rules in a dev org",
+  "Master reports, dashboards and data tools",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the Salesforce Plat-Admn-201 – Platform Administrator certification exam? 🚀\n🎯 Exam Format: 60 questions | 105 minutes | $200\n📚 Key Topics to Focus On:\n\n* Data and Analytics Management\n* Configuration and Setup\n* Automation\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore Salesforce Plat-Admn-201 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward Salesforce certifications!\n#Salesforce #PlatAdmn201 #DataAndAnalytics #SalesforceAdmin #Automation #SalesforceCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

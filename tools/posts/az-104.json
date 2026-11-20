@@ -1,0 +1,53 @@
+{
+ "vendor": "Microsoft",
+ "name": "Azure Administrator",
+ "code": "AZ-104",
+ "hook": "Identity, storage, compute and networking in Azure.",
+ "facts": [
+  [
+   "Questions",
+   "40–60 (varies by exam)"
+  ],
+  [
+   "Time",
+   "100 minutes"
+  ],
+  [
+   "Price",
+   "$165 USD (US price)"
+  ],
+  [
+   "Level",
+   "Associate (Intermediate)"
+  ]
+ ],
+ "domains": [
+  [
+   "Identities & Governance",
+   "20–25%"
+  ],
+  [
+   "Storage",
+   "15–20%"
+  ],
+  [
+   "Compute Resources",
+   "20–25%"
+  ],
+  [
+   "Virtual Networking",
+   "15–20%"
+  ],
+  [
+   "Monitor & Maintain",
+   "10–15%"
+  ]
+ ],
+ "tips": [
+  "Practise Entra ID, RBAC and Azure Policy",
+  "Deploy VMs, App Service and containers",
+  "Configure VNets, NSGs, peering and DNS",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the Microsoft AZ-104 – Azure Administrator certification exam? 🚀\n🎯 Exam Format: 40–60 questions | 100 minutes | $165\n📚 Key Topics to Focus On:\n\n* Manage Azure identities and governance\n* Deploy and manage Azure compute resources\n* Implement and manage virtual networking\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore Microsoft AZ-104 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward Microsoft certifications!\n#Microsoft #AZ104 #Azure #AzureAdmin #CloudComputing #MicrosoftCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

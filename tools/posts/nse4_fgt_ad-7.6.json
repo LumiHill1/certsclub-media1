@@ -1,0 +1,53 @@
+{
+ "vendor": "Fortinet",
+ "name": "FortiOS 7.6 Administrator",
+ "code": "NSE4_FGT_AD-7.6",
+ "hook": "Deploy, secure and manage FortiGate firewalls.",
+ "facts": [
+  [
+   "Questions",
+   "50–55"
+  ],
+  [
+   "Time",
+   "100 minutes"
+  ],
+  [
+   "Price",
+   "$210 USD"
+  ],
+  [
+   "Level",
+   "NSE 4"
+  ]
+ ],
+ "domains": [
+  [
+   "Deployment & System Config",
+   "20–25%"
+  ],
+  [
+   "Firewall Policies & Auth",
+   "20–25%"
+  ],
+  [
+   "Content Inspection",
+   "25–30%"
+  ],
+  [
+   "Routing",
+   "10–15%"
+  ],
+  [
+   "VPNs",
+   "10–15%"
+  ]
+ ],
+ "tips": [
+  "Configure firewall policies, NAT and authentication",
+  "Practise SSL inspection, IPS and web filtering",
+  "Set up IPsec and SSL VPNs and routing",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the Fortinet NSE4_FGT_AD-7.6 – FortiOS 7.6 Administrator certification exam? 🚀\n🎯 Exam Format: 50–55 questions | 100 minutes | $210\n📚 Key Topics to Focus On:\n\n* Content inspection\n* Deployment and system configuration\n* Firewall policies and authentication\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore Fortinet NSE4_FGT_AD-7.6 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward Fortinet certifications!\n#Fortinet #NSE4FGTAD76 #FortiGate #NetworkSecurity #Firewall #FortinetCertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}

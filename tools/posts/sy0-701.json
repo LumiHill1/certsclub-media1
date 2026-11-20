@@ -1,0 +1,53 @@
+{
+ "vendor": "CompTIA",
+ "name": "Security+",
+ "code": "SY0-701",
+ "hook": "Core cybersecurity skills for every IT role.",
+ "facts": [
+  [
+   "Questions",
+   "Up to 90 (MCQ + performance-based)"
+  ],
+  [
+   "Time",
+   "90 minutes"
+  ],
+  [
+   "Price",
+   "$425 USD"
+  ],
+  [
+   "Level",
+   "Core · pass 750 (100–900)"
+  ]
+ ],
+ "domains": [
+  [
+   "General Security Concepts",
+   "12%"
+  ],
+  [
+   "Threats, Vulnerabilities & Mitigations",
+   "22%"
+  ],
+  [
+   "Security Architecture",
+   "18%"
+  ],
+  [
+   "Security Operations",
+   "28%"
+  ],
+  [
+   "Program Management & Oversight",
+   "20%"
+  ]
+ ],
+ "tips": [
+  "Know attack types, indicators and mitigations",
+  "Practise performance-based scenarios",
+  "Review IAM, incident response and risk",
+  "Take timed practice tests with explanations"
+ ],
+ "caption": "Preparing for the CompTIA SY0-701 – Security+ certification exam? 🚀\n🎯 Exam Format: Up to 90 questions | 90 minutes | $425\n📚 Key Topics to Focus On:\n\n* Security Operations\n* Threats, Vulnerabilities, and Mitigations\n* Security Program Management and Oversight\n\nWhether you're starting your preparation or reviewing key concepts, having the right study resources can make a difference.\n📖 Explore CompTIA SY0-701 practice questions, study materials, and exam preparation resources at https://www.certsclub.com/\n💾 Save this post for your exam preparation and share it with others working toward CompTIA certifications!\n#CompTIA #SY0701 #SecurityPlus #CyberSecurity #InfoSec #CompTIACertification #ITCertification #CertsClub #ExamPreparation #PracticeTests #ArtificialIntelligence #TechCareers"
+}
